@@ -1,0 +1,76 @@
+# crawlers, spiders, bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 120
+Disallow: /
+
+User-agent: DotBot
+Crawl-delay: 120
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Yandex
+Crawl-delay: 120
+Disallow: /
+
+User-agent: Yandex/1.01.001
+Crawl-delay: 120
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-video
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: VoilaBot
+Disallow: /
+
+User-agent: sogou spider
+Crawl-delay: 120
+Disallow: /
+
+User-agent: Sogou web spider
+Crawl-delay: 120
+Disallow: /
+
+User-agent: SputnikBot
+Disallow: /
+
+User-agent: FatBot
+Disallow: /
+
+User-agent: FatBot 2.0
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+
+# seo tools
+User-agent: sistrix
+Disallow: /
+
+User-agent: 007ac9
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
